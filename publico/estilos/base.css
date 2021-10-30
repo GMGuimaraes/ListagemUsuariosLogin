@@ -1,0 +1,18 @@
+body {
+  background-color: #bf8bff;
+  width: 100vw;
+  height: 100vh;
+}
+
+.text-primary {
+  color: #bf8bff;
+}
+
+.bg-primary {
+  background-color: #bf8bff;
+}
+
+form {
+  width: 550px;
+  margin-top: -10vh;
+}
